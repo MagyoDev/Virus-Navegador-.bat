@@ -12,4 +12,4 @@ Um vírus que abre o navegador infinitamente
 5.Alterar ícone e aplica
 
 #Mudanças
-- Mude o navegador nessa parte do código 'start chrome.exe'
+- Mude o navegador nessa parte do código `start chrome.exe`
