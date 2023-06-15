@@ -1,5 +1,5 @@
 # Virus-Navegador-.bat
-Um vírus que abre o navegador infinitamente 
+Um vírus em .bat inofensivo que abre o navegador infinitamente
 
 #Necessário 
 -Ter o navegador Chrome 
