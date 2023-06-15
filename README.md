@@ -1,7 +1,7 @@
 # Virus-Navegador-.bat
 Um vírus em .bat inofensivo que abre o navegador infinitamente
 
-#Necessário 
+# Necessário 
 - Ter o navegador Chrome 
 
 # Passo a Passo
@@ -11,5 +11,5 @@ Um vírus em .bat inofensivo que abre o navegador infinitamente
 4.Cliquem com botão direito em propriedades
 5.Alterar ícone e aplica
 
-#Mudanças
+# Mudanças
 - Mude o navegador nessa parte do código `start chrome.exe`
