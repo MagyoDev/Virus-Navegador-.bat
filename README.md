@@ -2,7 +2,7 @@
 Um vírus em .bat inofensivo que abre o navegador infinitamente
 
 #Necessário 
--Ter o navegador Chrome 
+- Ter o navegador Chrome 
 
 # Passo a Passo
 1.Baixe o arquivo 
